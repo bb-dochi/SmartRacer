@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    >
+    <gradient
+        android:angle="90"
+        android:type="linear"
+        android:startColor="#666666"
+        android:centerColor="#888888"
+        android:endColor="#999999"/>
+    <stroke android:color="#5000"
+    android:width="5dp"/>
+    <padding android:left="10dp"
+    android:top="5dp"
+    android:right="10dp"
+    android:bottom="5dp"/>
+    <corners android:radius="200dp" />  //모서리를 둥근모양으로 지정 반지름은 10dp
+</shape>

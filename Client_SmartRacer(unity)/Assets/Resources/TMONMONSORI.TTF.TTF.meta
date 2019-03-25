@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9e6323f45c338e2419fd5fe8b1ecc8ed
+timeCreated: 1504531872
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TmonMonsori
+  fontNames:
+  - TmonMonsori
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
